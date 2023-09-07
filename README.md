@@ -27,3 +27,10 @@ Machine learning model 2:
     accuracy                           0.94    112554
    macro avg       0.95      0.94      0.94    112554
 weighted avg       0.95      0.94      0.94    112554
+
+
+
+
+source code
+1.https://github.com/hdkronke/supervised-machine-learning-challenge/blob/main/credit_risk_classification.ipynb
+2.https://git.bootcampcontent.com/University-of-Minnesota/UofM-VIRT-DATA-PT-03-2023-U-LOLC/-/blob/main/20-Supervised-Learning/1/Activities/03-Ins_Logistic_Regression/Solved/logistic_regression_solution.ipynb
